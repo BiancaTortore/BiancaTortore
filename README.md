@@ -2,7 +2,7 @@
 
 🎓 **Bachelor’s in Marine Transport** | ⚓ Merchant Marine Officer  
 📊 **Aspiring Data Analyst** specializing in **SQL, Power BI, Tableau, and Excel**  
-🌍 Based in **Berlin, Germany** | 🇪🇸 Spanish | 🇬🇧 English | 🇮🇹 Italian | 🇩🇪 Learning German (A1)  
+🌍 Based in **Berlin, Germany** | 🇪🇸 Spanish | 🇬🇧 English | 🇮🇹 Italian | 🇩🇪 Learning German (A2)  
 💼 Open to opportunities in **Data Analytics, Business Intelligence, and Supply Chain**  
 
 ---
@@ -20,7 +20,7 @@ Currently, I am expanding my career in **data analytics**, building dashboards, 
 - **Databases**: SQL (queries, joins, aggregations, KPIs)  
 - **Data Cleaning & Modeling**: Power Query, Excel, basic ETL  
 - **Logistics & Operations**: Supply Chain, Transport Management  
-- **Languages**: Spanish (native), English (fluent), Italian (intermediate), German (A1)  
+- **Languages**: Spanish (native), English (fluent), Italian (intermediate), German (A2)  
 
 
 ---
